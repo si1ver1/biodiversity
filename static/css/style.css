@@ -1,0 +1,10 @@
+body {
+
+    color: #108bdd;
+  }
+
+.jumbotron {
+    background-image: url("../images/lab.jpg");
+    background-size: 100% 125%;
+    text-align: center;
+}
